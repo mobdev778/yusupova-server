@@ -1,8 +1,8 @@
 [
   {
-    "name": "The forbidden fruit",
-    "path": "gallery/the_forbidden_fruit2.jpg",
-    "sha256": "135665730a9fcb8071f9e7c1fa9bd01757f60e08ff0804c467d30a0c45464efb"
+    "name": "Time",
+    "path": "gallery/time.jpg",
+    "sha256": "d7f16d52243fbd2e3cf5f2b99fed285bf27729a1c3e6c0fd4699e7247ded28a4"
   },
   {
     "name": "Larch",
@@ -45,14 +45,14 @@
     "sha256": "61baa869a115627a62e7422a733ea5264e55694550c482cdd89f502619d670b4"
   },
   {
-    "name": "Time",
-    "path": "gallery/time.jpg",
-    "sha256": "d7f16d52243fbd2e3cf5f2b99fed285bf27729a1c3e6c0fd4699e7247ded28a4"
-  },
-  {
     "name": "Flexibility",
     "path": "gallery/flexibility.jpg",
     "sha256": "9a4833b06fab30a85637e5a4984039e58144f58c854455fa20086064584af5ba"
+  },
+  {
+    "name": "The forbidden fruit",
+    "path": "gallery/the_forbidden_fruit2.jpg",
+    "sha256": "135665730a9fcb8071f9e7c1fa9bd01757f60e08ff0804c467d30a0c45464efb"
   },
   {
     "name": "The forbidden fruit",
